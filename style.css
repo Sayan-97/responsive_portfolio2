@@ -316,4 +316,8 @@
         top: 2vw;
         height: 45vw;
     }
+    
+    .githubTitle{
+        font-size: 20vw;
+    }
 } 
