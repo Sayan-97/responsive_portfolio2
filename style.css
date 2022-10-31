@@ -294,20 +294,26 @@
         width: 20vw;
     }
 }
-/* 
-@media screen and (max-width:600px) {
+
+@media screen and (max-width: 600px) {
+    .laptop{
+        width: 90vw;
+        padding-left: 0;
+        justify-content: center;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        
+    }
+
     .lappy{
-        width: 80vw;
+        width: 90vw;
     }
 
     .laptopScreen{
-        width: 62vw;
-        left: 28%;
-        top: 5%;
-        height: 18vh;
+        width: 68vw;
+        left: 10vw;
+        top: 2vw;
+        height: 43vw;
     }
-
-    .githubTitle{
-        font-size: 75px;
-    }
-} */
+} 
